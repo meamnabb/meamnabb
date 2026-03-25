@@ -1,2 +1,2 @@
 # Hi, I'm Amna 👋
-Frontend Developer 💻
+Frontend Developer 
