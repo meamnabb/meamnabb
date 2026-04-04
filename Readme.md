@@ -10,3 +10,7 @@ I'm Amna Bibi.
 </div> 
 
 <h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1>
+
+- 🌐 Passionate about **Web technologies**, especially **JavaScript** and **full-stack** development.
+- 💡 Enthusiastic about **solving complex problems**, learning new tools, and building real-world projects.
+- 👩‍🏫 Teaching volunteer at **iCodeGuru**, where I deliver sessions on Python and DSA.
