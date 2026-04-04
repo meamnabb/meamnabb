@@ -7,5 +7,6 @@ I'm Amna Bibi.
 [![LinkedIn](https://img.icons8.com/color/30/linkedin.png) `meamnabb`](https://www.linkedin.com/in/meamnabb)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"/> `mamnabb`](https://leetcode.com/u/meamnabb/)
 
-
 </div> 
+
+<h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1>
