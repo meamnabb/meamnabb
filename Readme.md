@@ -34,6 +34,6 @@ I'm Amna Bibi.
 
 - 📢 **Tech Instructor & Trainer @ iCodeGuru** — Python, DSA, Git & GitHub  
   - 🐍 Delivered Python sessions and solved LeetCode problems  
-  - 🛠 Conducted workshops on Git and GitHub  
+  - 🛠 Conducted workshops on Git and Github  
   - 🎤 Presented webinars and awareness sessions on Harvard CS50 Puzzle Day 2025
   - 🎥 Recordings: [GitHub Repository](https://github.com/theamnabb/Volunteer_Instructor_Recordings)
